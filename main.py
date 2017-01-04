@@ -2,13 +2,19 @@ import numpy as np
 import cv2  #add OpenCV Library
 import rawpy
 import os
+import sys
 
-os.chdir("C:\Users\FoundryUser\Documents\Valentin Siderskiy\Projects\UVeyes\colorblind_cyclops\Colorblind_Cyclops")
-#from . import * #add access to subdirectory files 
+# Add sub directory /Images
+fileDir = os.path.dirname(os.path.realpath('__file__')) #curent file directory
+imagesDir = fileDir + '\Images'
+flowersDir = imagesDir + '\Flowers'
+landscapeDir = imagesDir + '\Petroglyphs' 
+
+#change directory for landscape
+os.chdir(landscapeDir)
 
 RED_THRESHOLD = 100
 BLUE_GREEN_THRESHOLD = 50
-
 
 UVraw = rawpy.imread('petroglyphs_uvBaader_20160225valleyOfFireStateParkNV_45180.nef')	#Creates RAWPY Object
 VLraw = rawpy.imread('petroglyphs_visible_20160225valleyOfFireStateParkNV_45170.nef')  #Creates RAWPY Object
