@@ -1,0 +1,29 @@
+IMAGE FILE LIST:
+All images were photographed with a converted Nikon D600 and a Coastal Optics 60mm f/4.0 UV-VIS-NIR APO Macro lens. Exposures were made outdoors in natural sunlight at f/11 and ISO-400.
+
+(1) Infrared image file:  bouquet_ir092_sun_20160914wf_50918
+B+W 092 Red+IR-pass filter.
+
+(2) Infrared image file:  bouquet_ir093_sun_20160914wf_50900
+B+W 093 IR-pass filter.
+
+(3) Ultraviolet image file:  bouquet_uvAndreaU2_sun_20160914wf_50784
+AndreaU2 UV-pass filter.
+
+(4) Ultraviolet image file:  bouquet_uvBaaderU_sun_20160914wf_50762
+BaaderU UV-pass filter.
+
+(5) Ultraviolet image file:  bouquet_uvStraightEdgeU_sun_20160914wf_50832
+StraightEdgeU UV-pass filter
+
+(6) Ultraviolet image file:  bouquet_uvU360-2+S8612-2_sun_20160914wf_50749
+U360 (2mm) + S8612 (2mm) UV-pass filter stack.
+
+(7) Visible image file:  bouquet_visRef_sun_20160914wf_50701
+Baader UV/IR-cut filter.
+
+(8) UV+Blue+Green image file:  bouquet_u330-150+s8612-175_sun_20160914wf_50878
+U330 (1.5mm) + S8612 (1.75mm)  UV/B/G-pass filter
+
+(9) UV+Blue+Green image file:  bouquet_ug5-150+s8612-175_sun_20160914wf_50802
+UG5 (1.5mm) + S8612 (1.75mm)  UV/B/G-pass filter
